@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Choice
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Choice
+ identifier : 0x24da109b0546408f
+ internal_properties : CAAAAAgAAABJi4XUAqwxoooiZNixwFoOFiThRPfq6JawBAHsUruqcA3ljc7CxffFo95aV24IxvWzG6XiqRQRXAKtqfwcAYnrhfBW7ZJV3l0Kr//ZpPP0GSiZwK4LLVryNJGSncqXdNrSnZW+xbqgH4SNB0Oh66z4NwxY9zT9GXfMp6+5NJyHN++sqIUJj5tKAxUuIjwlWB5JD2RDf1NIPnH+JL6kHUjbzEiODESkmPa2qnE+MVnde6p+qXPL7v7TgFdzyXAbSdtAHeOvzJ5tmuOa5tKNp5wKJT/5Y7q6+WLqVObXSCMEUvGd841TFAqmeEG565b7ThTBGhvMR8Mf1xzOiNivww3NJCdSZ7M3Uf/Pllam0WwSZKis6+pjShw1Iql5OGtmWeRVjvFO0mSJNvFqOzagjMH/0wNQ/pZTgfcUyEGkQDpvTDw77ezAL+WqINI9il5fcMGodhhd+xFW1sGSkT7YpUCXl3LXziUcaE9h5EF0NM3poJqXdgo7Mhg9+YVqbJxlXQgKaQoKxS4oEkNJejuNfolIPlgWFHE1azyPsqEup2AhPNSCWNgCvZd+07zfU7QOiZsZuhsS9js2/ZZ9tMWdeCbOXxQOpRB6u2BvGwXUhM3lzw96K2/EGXOKMiVSBGIva3bIevDU0zY/rid3ak4etRKhaEN73rjGWxxrl/lkSX0NID6gXswV6qN2gYqGKwUsqtbx867hPhxQ+Z/nsFy7cSDnwptrM6zhqM1xlSCu6w6Z9AMj9FuDzi4dtBivVVQsgQrSCWc3GYgu7nLJHJum5HU20GQ0ykoTiOQ7jRA2Ug==
+ properties :
+  width : 293
+  height : 221
+  widthClient : 291
+  heightClient : 189
+ controls :
+  -
+    name : RADIO_Choice
+    identifier : 0x24da109b0547408f
+    internal_properties : CAAAAAgAAAAwmJU6qh010lrmtD6c7xKFqFu3OP6uwZEPtSae8c6pVSIEctcVPTfPuKRNjcOHTwQOX8ptVFhtub2T0yFc6hSfno1OCcWUK7anOgvgMHqkk4jDTsevUULJwkQqlu1YDPgIt7fNZjhar3qF+y2p18LyldpxgRN7NX609tJ7HXgyreuCg0JU5y3SrZAYnn9hlKomZap28C3YVhHmkJdZJxxV5zSW1iIFCz9I/ZacMGWa0u1qbZ3JZsTNIq7LmyaAU3M/k01YXrkAbkoD1HWqWEWnTBMjnguCzkuZQ/pMo1UYtlgTN1rIAA8/PK1Xs/WFnUSrpFlJ4nrW6xJEe3s+9HGyDVf+lAm7x1dq3TZQVZN780HICwyo6+66z6ZjNuz/lGsgMGXfJeehO/22n6IW6ctE2yehqYQNaXaCreShwe9MVSCpNUq6Etq1SXmxoCAMf9dCLZWGPYOIPUm07EKJ7C+ysADqyzd6M+a8tiVwFelTJX2x/G6GAjN4MGS7GpTwNE6iPFrxFTe+/qjbzg0HPplt5H8rfd8Yz5679bPAlZxOTy7LaeYppgJY0eFrXCuj6+ecTcA8xVUFDlL8MpKcK2T/2F4KR9JLoV7Tj/VsmqGDx07PssotahizHtwOs0GwWCZixtPzloNzbmyVDDyQqPb9aX+uJkSGOQORf0H2VYZn/p3zL33Voz9ly4MlTTV1JPOPFsvOfQRO0r3Es9rU544RBSacA0HDWsJQKmFZsm03fx0BRIFwpMSRuq0oUQG/jncfpOo1ZWhVPfmqfbulfHMb8YpXAbEXRmyzTvz5V8pit31gg3s/hhT/u6yRNB/eQREooDt1smz+Mc3wnAvmZpe1FJwf7ZiePGy+2ZavqCsAEgmqa1fVRv94HbLvffavEeXpIg/9unQAaLOgakBbx4dZMwOx2b24pU2MspsdhbR1dXF38s3aV+qSklDmxqe//tdQ2iBv//DO7n35pr058Qjicm7VshgwVMoUQp+iyFvNlDjLMgiPK2tCustPEWCbs3HVRzu7pqk/HUcivYpE+7ONSneXqFyZprriR7oeXuKsanRdiQxsmajNGlQh8Hk7s7Tr1zQW0ZH+2HceGrxmBOe6UyqfpDHxvaU19SM0cif5sjX2dLN8PAvTjs1ggniYEfmM/3bpVf5sXpjTjgS+k50QucWopz2OeeHaeOhcHmkGR5AP3XTGI8ptBvahBIjjgsrj9URlwtIygW75NYHCKNlrT1+p4olm8UunAMZ1W2rbwHASqpDRzfZPJf0x/Qf0VTsqLYcOxtM=
+    properties :
+     x : 39
+     y : 38
+     width : 152
+     height : 100
+    options :
+     -
+       internal_properties : CAAAAAgAAACR1dNsuPvcaWBO5PjXUl1E2+PxGNhLPrhXE4AXXz+XeElTmBt6WV6hy711SOkBEt2rHEF/p0jKxBSHLNKo/9DbHoY+euWhvbUYGARokFiGTQs8X7PLTdRZ/xq6+sndgyGsp+vCZrlOD64eyJgdkI1e/QjrF187ADPCd0nrN4IeHQ==
+     -
+       internal_properties : CAAAAAgAAAAd6PCWJisqtkav2k+4+JV1E3Jol+l3eJwRJsKhGeZz9wvENdbApAaCRyZpc9j1mb+FphJITssVUfe5Fekq0Z7BQahw+213ucKmAAyRFRs2TjxZQfovv3xO33z4PZ5ID3id9It7jAU+xFg2FMHcb3n/1qS66eyjyoLD1Jqxy61L8lf9HNs=
+     -
+       internal_properties : CAAAAAgAAAArfou60mLWUV6+UKyaFo0ZX77MCNOU0KUee18GPCFHoqe6D3bYnj6hNzzszsScQ2dR2ZRKM8MWR1X+i/2Q1fhtdNUGnxCZ7K3cwzyxwiJo550Fz9zs/eN1p+fmBXXdVyV3edghhTv9+zQ58cL5FM8aT+nNTKPU/5p0rrp8ajKJ4DDVfs/CtxLpgw==
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : BTN_Exit
+    identifier : 0x24da109b054b408f
+    internal_properties : CAAAAAgAAABhCWFW5/jAPbeNAxvrGNENEAjCQLp1F3B7HEVlsFE8TBjLSqNWslXO2zksy8DJ/WLIWEDWRE2sNkZUNwVEh1qOaYay28CdO/TR+KcyW9vnRQXus0+LajkJhtbhx3uRDfbRjRC16C+gbZc3Qcq2LWnk7pcnyJqEgg4Y61BtFQ/p1o+7VKqEL3MtkrbAA5Lbj72kxRjlXQF4prpwv1mkqPWSzpKooe1s/qwR/EmxZAVWxhoaf20CqgmDbVaQ2HwR4ZW4T2pCuQ/jdLTxH12DADQuhjyXfh/5rxDtCHQ1+n/yBXDDQmfKgvgiHvVR0dGg8AWJzSJD70H8eyCzUcxWihM0tISCCz4cRTXjAKetl2fzOgQ+acOos6ONEyPs8DgRcUg94JvMYAUn343W/DNDr6MuWzBcQ0mLhOs6kN1FEsMXzOgdaXkbKXgIWq68cJW1AkxnVzGw7l80uIDDRLZjut+n9H95daFCPpp8Wd0rZ+QLxEcX9ERZ+QjWT4FMHcSs/paJ1e3AvTOQhYszK6axBQPXMP2umhoJqODzQUFZarKLnTEF0nFszRvKS2QHCsnAAhfiJ+IJDUmA6WOxcXF9yIEmRRu4DtDKfHerFuTLRsyj9gjgygabsh5UyI/tVB7EvLrucrBNKCsYjVCxF1wgxFdOZbZR1N5TTPOIp6Ccd4wF2umWzENqcvFOgm/gcnU/YLFTy2M4yao+fN6lsRa+ZzFAI89DkJWSUkbiKfQBkilyZSxDVButSgfA7EQusA+/KxVQI976VgwUDTTd5qOOtUY8/OCwoXAQ/PD6FFP7nGq+U9UXkhLh1+yJJ8L62ThffGhfk01uw1ZO85h3pWEECT0gzCRz0+YDRcCdNk6Gzu9/FkZc6yYjt7ON1JGNiArpTqA1mefYxSsnZptZ5cmjDyTppJHea7c+LW3WxpMdu9NYLbm30jmWS82n9ji6l1LixoqZGTGk2a1rseRS3g==
+    properties :
+     x : 197
+     y : 155
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Validate
+    identifier : 0x24da109b054c408f
+    internal_properties : CAAAAAgAAACWQi3Y44WoNO46+3J15h4yRtg1mK4IcdvVc+9gD/2pl9JvJ2RdYOj6yRs61wnlAUTjyVvv4/aF9Ixpa4cBhRA1OiDhPaledGYfj/SBRPC562QSbSsVkihPC7QZTU3ZyOyyY0P1rt0ctcqbrzDN+R5VDsWboFNcXLt4i7vncjlrZlMrIgTazxsA56YmzXM7O3Ti0bv8boOqE+O9MiyHkmSVxUIVKhxEJW8SFkEXK451jAsYia2fAWK0Nn6aVxJFYoOkHK6rfmOMgTHT4vYqxZyWByiaD5z1yOdf/ieWA6PDrP1t+QipU6DuYRGbwRI2GF2Zuzyhk9/B66q0OpRuaVpNO0MNYJm2ZFdE5vJQXVQLGRCcaE5pCIsJJAcDEtQgwjtxdUuCt2L2PmzMV1OdIMDCCqGpxu4UI4t9lP7FC6vn6n+gpz9o02FpJvh0acbTrVwwWRzR4thg4Vy4KQ7P/z3zQmPpBfmi2OvwmsyEfzyn3taZZg2G/+XjQcngVAaFXYKqeXsXeK0pUJWDnaO7Jh6d37/CcR3lT9eH5znkwJngkzz1wJDHqZIT6QAFn6EfK73NLdYy0kXvfsmRc4pL5TB26lsOdWOaB6p5pnQMDMM0Cj2wCOECugNt3u+ZC8gJfwitpkKEw9NjBLatlxUW1Q7CGk79Ie+z6eKoGRSPdbnEqtye5GoNNuJvlO9OZXUcj1POWePJvnLZy6ZrietA7nKgcIHlgSrkZa00fY4wxDD/sfkLgjzCbIrzlC4YO43ihEMNW+KtfUCLviR75haGwu1wz9ag9ol6n09IPFu2irRmAbbvfPfLMQwwrJi9UlcviiKDiW3fCiT5PTtNU3zrser9NG5eijj/zNlQx2sUWXQVvoc/NKGKiMycwGsVr+8FWA8kfhBULfuhLhw1nY3xf76l/mzXEUNpeVsFkWu4g1XLbtzXsrJr/YAddQ7O5huGhfDkA6MKGaCNUmQd/ACrH5eY
+    properties :
+     x : 111
+     y : 155
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         SWITCH RADIO_Choice
+         	CASE 1 // Send an email
+         		Open(WIN_SendMail)		
+         	CASE 2 // Read my emails
+         		Open(WIN_ReadingAppEmail)
+         	CASE 3 // View my parameters
+         		Open(WIN_Options)
+         END
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x28297029deef10b5
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAADu/OqHe7eL0ti/jxqq38aHF4U8B0cd3HY54KRtdtGRvjbI4TmA0M8co1kyXIk3YW6d07UwGqQY0gpwbPYmHvwM2alitcwuHr7JmFs3/g7AzcHQnCFMm9Gcu8RV482
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenChoix
+resources :
+ string_res :
+  identifier : 0x131d9fa20066101c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

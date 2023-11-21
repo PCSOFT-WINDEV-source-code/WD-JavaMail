@@ -1,0 +1,110 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD JavaMail
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : This project manages...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD JavaMail
+    internal_properties : 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
+    configuration_id : 876040343010246790
+    type : 8
+    generation_directory : .\Exe
+    version : {}
+    language : 2
+ elements :
+  identifier : 0x4ac380c00200a349
+  elements :
+   -
+     name : Global procedures of WD JavaMail
+     identifier : 0x430db57e0005a050
+     internal_properties : CAAAAAgAAABbNwMHpOHJ0p2MwJ32X2iWuSpUBJb0FzmnBnxxjHencY9ND4PYKLizumReWtoW4tY+xg==
+     physical_name : .\Global procedures of WD JavaMail.wdg
+     type : 7
+   -
+     name : WIN_SendMail
+     identifier : 0x430db72300060e6e
+     internal_properties : CAAAAAgAAAAJBXEVks9nCNfyGks8bj5AQ8aCGrLgBNan5r440SLw2NQoTMaabgJ9cKoU7LQs1MQMFA==
+     physical_name : .\WIN_SendMail.wdw
+     type : 2
+   -
+     name : WIN_Options
+     identifier : 0x431da1cf00018ebb
+     internal_properties : CAAAAAgAAACQbsjU04iguwTjC1ghtBmXOqkxGa2T8V9WjcGYFwwIgEiKKOplW/VuYdvFM/PtlQv1fQ==
+     physical_name : .\WIN_Options.wdw
+     type : 2
+   -
+     name : WIN_ReadingAppEmail
+     identifier : 0x431da2af0002fbfd
+     internal_properties : CAAAAAgAAABSqIqeLRoSzeq12YrzL/v1GAkXv3XrKsWOew+LADNhX6lpCYnbLcO8s21XoWGfW023vw==
+     physical_name : .\WIN_ReadingAppEmail.wdw
+     type : 2
+   -
+     name : WIN_Choice
+     identifier : 0x431da0010000819d
+     internal_properties : CAAAAAgAAABxzan9Snc/cH8qYrPUiTag37gaWmRyU7dS2qj3Cumtc1mnMdGCRtpVGAL8xEyEfGxU3A==
+     physical_name : .\WIN_Choice.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD JavaEmail.sty
+ wb_style_sheet : .\WD JavaEmail.wws
+ code_elements :
+  internal_properties : CAAAAAgAAACNo6fK5A9swC2xxXtBI1sYEzSlKPmzMaBrs80rxhTs/blsadUzL+Mb2v2HNus5LyvUXUtZ2pyBpqOT5SNRRELB
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      gsUserName is string
+      gsPassword is string
+      gsPOPServer is string
+      gsSMTPServer is string
+      
+      // Retrieve the parameters
+      GetParameters()
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD JavaMail
+     identifier : 0x4ac380c10207a4a0
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : UWA API1
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

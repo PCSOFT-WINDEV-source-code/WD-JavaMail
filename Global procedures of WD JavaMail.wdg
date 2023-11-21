@@ -1,0 +1,73 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Global procedures of WD JavaMail
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x14da109c00584456
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAABPOo5wfzL5PtlmH9g6pVlcqG1md+uM4GM8B/k/aVja5R6ZseBzxTGWZbo12UeE8bWym5Rl91AKrNq9wTYnFyamg2lAMw==
+  type_code : 31
+  p_codes : []
+  procedures :
+   -
+     name : GetParameters
+     procedure_id : 1502531687888274518
+     type_code : 15
+     code : |1-
+      // Syntax:
+      //GetParameters ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE GetParameters()
+      
+      gsUserName = LoadParameter("USERNAME","")
+      gsPOPServer = LoadParameter("POPSERVER","")
+      gsSMTPServer = LoadParameter("SMTPSERVER","")
+      gsPassword = LoadParameter("PASSWORD","")
+      
+      IF gsSMTPServer ~="" THEN
+      	gsSMTPServer = INIRead("EMAIL","SMTP","","JavaEmail.ini")
+      END
+     type : 458752
+   -
+     name : SaveParameters
+     procedure_id : 1502531687888340054
+     type_code : 15
+     code : |1+
+      // Syntax:
+      //SaveParameters ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE SaveParameters()
+      
+      SaveParameter("USERNAME",gsUserName)
+      SaveParameter("POPSERVER",gsPOPServer)
+      SaveParameter("SMTPSERVER",gsSMTPServer)
+      SaveParameter("PASSWORD",gsPassword)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x130db57e01b0a040
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ
